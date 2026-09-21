@@ -1,2 +1,0 @@
-# Micit-Technology-
-Student Registration
